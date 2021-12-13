@@ -1,0 +1,16 @@
+PODS:
+  - PluginApplication (1.0.0)
+
+DEPENDENCIES:
+  - PluginApplication (from `../`)
+
+EXTERNAL SOURCES:
+  PluginApplication:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PluginApplication: e3640a8067c3032b5b2e5b36fc38fac52f665909
+
+PODFILE CHECKSUM: 77389b50626f30a22dad34ad46ae350af8a70a30
+
+COCOAPODS: 1.11.2

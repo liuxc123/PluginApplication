@@ -7,9 +7,8 @@
 //
 
 @import UIKit;
+#import "PluggableAppDelegate.h"
 
-@interface YYAppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface YYAppDelegate : PluggableAppDelegate
 
 @end
